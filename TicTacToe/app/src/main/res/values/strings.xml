@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="restart">Restart</string>
+    <string name="introactivity">IntroActivity</string>
+    <string name="back">Back</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="play">play</string>
+</resources>
